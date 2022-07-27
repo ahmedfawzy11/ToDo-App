@@ -2,7 +2,7 @@ import 'package:date_picker_timeline/date_picker_timeline.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:to_do_app/Bloc/cubit.dart';
-import 'package:to_do_app/Style/colors.dart';
+import 'package:to_do_app/Shared/Style/colors.dart';
 
 class AddDataBar extends StatelessWidget {
   const AddDataBar({Key? key}) : super(key: key);

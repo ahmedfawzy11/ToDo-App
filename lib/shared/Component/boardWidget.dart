@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:to_do_app/Constant/constant.dart';
-import 'package:to_do_app/UI/Screens/createTaskScreen.dart';
-import 'package:to_do_app/UI/Widgets/favoriteWidget.dart';
+import 'package:to_do_app/Screens/createTaskScreen.dart';
+import 'package:to_do_app/Shared/Component/favoriteWidget.dart';
 import 'package:to_do_app/Widgets/customButton.dart';
 
-import 'UnCompletedScreen.dart';
 import 'allScreen.dart';
 import 'completedScreen.dart';
+import 'unCompletedScreen.dart';
 
 class BoarderWidget extends StatelessWidget {
   const BoarderWidget({Key? key}) : super(key: key);

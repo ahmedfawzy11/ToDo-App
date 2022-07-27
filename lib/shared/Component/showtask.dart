@@ -3,7 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:intl/intl.dart';
 import 'package:to_do_app/Bloc/cubit.dart';
 import 'package:to_do_app/Bloc/states.dart';
-import 'package:to_do_app/UI/Widgets/taskTile.dart';
+import 'package:to_do_app/Shared/Component/taskTile.dart';
 import 'package:to_do_app/Widgets/emptyScreen.dart';
 
 class ShowTask extends StatelessWidget {

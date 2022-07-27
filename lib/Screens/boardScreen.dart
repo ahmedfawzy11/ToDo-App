@@ -3,9 +3,9 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:to_do_app/Bloc/cubit.dart';
 import 'package:to_do_app/Bloc/states.dart';
 import 'package:to_do_app/Constant/constant.dart';
-import 'package:to_do_app/Style/colors.dart';
-import 'package:to_do_app/UI/Screens/scheduleScreen.dart';
-import 'package:to_do_app/UI/Widgets/boardWidget.dart';
+import 'package:to_do_app/Screens/scheduleScreen.dart';
+import 'package:to_do_app/Shared/Component/boardWidget.dart';
+import 'package:to_do_app/Shared/Style/colors.dart';
 import 'package:to_do_app/Widgets/customIconButton.dart';
 
 // ignore: must_be_immutable

@@ -10,7 +10,7 @@ class NotificationScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-          title: const Text('Add task'),
+          title: const Text('Add Task'),
           leading: CustomIconButton(
             onTap: () {
               NavigatePop(context: context);

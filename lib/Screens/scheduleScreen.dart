@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:to_do_app/Constant/constant.dart';
-import 'package:to_do_app/UI/Widgets/scheduleWidget.dart';
+import 'package:to_do_app/Shared/Component/scheduleWidget.dart';
 import 'package:to_do_app/Widgets/customIconButton.dart';
 
 class ScheduleScreen extends StatelessWidget {

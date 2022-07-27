@@ -4,8 +4,8 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:intl/intl.dart';
 import 'package:to_do_app/Bloc/cubit.dart';
 import 'package:to_do_app/Bloc/states.dart';
-import 'package:to_do_app/UI/Widgets/addDataBar.dart';
-import 'package:to_do_app/UI/Widgets/showtask.dart';
+import 'package:to_do_app/Shared/Component/addDataBar.dart';
+import 'package:to_do_app/Shared/Component/showtask.dart';
 import 'package:to_do_app/Widgets/myDivider.dart';
 
 class ScheduleWidget extends StatelessWidget {

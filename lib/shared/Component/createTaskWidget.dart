@@ -24,10 +24,10 @@ class CreateTaskWidget extends StatelessWidget {
   String selectRemind = '10 min before';
   // ignore: non_constant_identifier_names
   List<dynamic> RemindList = [
-    '1 day before',
-    '1 hour before',
-    '30 min before',
-    '10 min before',
+    '1  Day Before',
+    '1  Hour Before',
+    '30 Min Before',
+    '10 Min Before',
   ];
   String selectRepeat = 'Weekly';
   // ignore: non_constant_identifier_names
@@ -55,7 +55,7 @@ class CreateTaskWidget extends StatelessWidget {
                 children: [
                   CustomTextField(
                     controller: cubit.TitleController,
-                    hintText: 'Design team meeting',
+                    hintText: 'Study Flutter',
                     FieldName: 'Title',
                     textInputType: TextInputType.text,
                   ),
@@ -70,7 +70,7 @@ class CreateTaskWidget extends StatelessWidget {
                           context: context,
                           initialDate: DateTime.now(),
                           firstDate: DateTime.now(),
-                          lastDate: DateTime.parse('3000-04-04'),
+                          lastDate: DateTime.parse('2100-12-31'),
                         ).then(
                           (dynamic value) {
                             cubit.DatelineController.text =
@@ -171,7 +171,7 @@ class CreateTaskWidget extends StatelessWidget {
                     height: 60,
                   ),
                   CustomButton(
-                    text: 'Create a Task',
+                    text: 'Create Task',
                     onTap: () {
                       if (FormKey.currentState!.validate()) {
                         cubit.InsertDataBase();

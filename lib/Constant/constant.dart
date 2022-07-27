@@ -1,7 +1,7 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:to_do_app/Style/colors.dart';
+import 'package:to_do_app/Shared/Style/colors.dart';
 
 // ignore: non_constant_identifier_names
 void NavigateTo({context, router}) =>

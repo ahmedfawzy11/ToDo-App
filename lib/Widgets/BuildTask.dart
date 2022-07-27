@@ -43,7 +43,7 @@ class BuildTask extends StatelessWidget {
           AppBloc.get(context).DeleteItem(id: item['id']);
           AppBloc.get(context).notifyHelper.displayNotification(
               Title: 'ToDo', body: '${item['title']} Deleted');
-          AppBloc.get(context).notifyHelper.cancleNotification(item);
+          AppBloc.get(context).notifyHelper.cancelNotification(item);
         },
         child: Padding(
           padding: const EdgeInsets.only(
