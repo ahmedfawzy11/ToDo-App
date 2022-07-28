@@ -55,7 +55,7 @@ class CreateTaskWidget extends StatelessWidget {
                 children: [
                   CustomTextField(
                     controller: cubit.TitleController,
-                    hintText: 'Study Flutter',
+                    hintText: 'Design team meeting',
                     FieldName: 'Title',
                     textInputType: TextInputType.text,
                   ),
@@ -180,8 +180,6 @@ class CreateTaskWidget extends StatelessWidget {
                           Title: 'ToDo',
                           body: '${cubit.TitleController.text} Created ',
                         );
-                        //NotifyHelper().scheduledNotification(Title: 'Create Task', body: 'Done');
-
                       }
                     },
                   ),
