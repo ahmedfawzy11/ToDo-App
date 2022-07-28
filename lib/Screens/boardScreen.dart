@@ -39,7 +39,7 @@ class Boardscreen extends StatelessWidget {
                   },
                   Widgeticon: const Icon(
                     Icons.date_range,
-                    color: defultColor,
+                    color: Colors.black54,
                   ),
                 ),
               ],
