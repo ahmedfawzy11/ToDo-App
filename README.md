@@ -1,17 +1,29 @@
-# Algoriza_Task
-# ToDo App
- Algoriza Flutter Internship Second Task
-
-## Getting Started
-  - Task was Assigned to Design and Implement Board, Create Task and Schedule Screens
-  - Using State Management BloC & Cubit and Local DB SQLite
-  - Task Deadline was 7 Days
-  - This Project is a The Phase 1 for a Flutter Application Development at Algoriza
-
-### App Screenshots
-  - ![1](https://user-images.githubusercontent.com/30273995/181470869-3fa15421-ff3e-4c1c-a014-72501b38f3a6.jpeg)
-  - ![2](https://user-images.githubusercontent.com/30273995/181470875-9ee07eb6-3373-4a40-9740-324fc44b6357.jpeg)
-
-    
-#### Demo Video
-   - https://user-images.githubusercontent.com/30273995/181470741-b642a466-71fa-45d6-88ef-7335e6b29343.mp4
+📱 ToDo App 
+------------------
+Project Description:
+-----------------------
+    - Task Was Assigned to Design and Implement Board 
+    - Create Task and Schedule Screens
+-----------------------------------------------------------------------------------------------------------------------------
+Flutter Using:
+------------------
+   -  Sate Mangement (BloC)
+   -  Local DB SQLite
+-----------------------------------------------------------------------------------------------------------------------------
+ App Icon:
+------------------
+   -  ![Icon](https://user-images.githubusercontent.com/30273995/191027462-730a657b-f820-45af-b4c8-3da9eeb99d5d.png)
+-----------------------------------------------------------------------------------------------------------------------------
+Flutter Packages:
+-----------------------
+   -  ![1](https://user-images.githubusercontent.com/30273995/191027435-a9c4902b-5290-4a9d-9e78-a1184be86f01.PNG)
+-----------------------------------------------------------------------------------------------------------------------------
+App Screenshots:
+------------------------
+   -  ![Screenshot-1](https://user-images.githubusercontent.com/30273995/191028108-652f54e7-5640-4de8-a225-39ce7682ece3.jpeg)
+   -  ![Screenshot-2](https://user-images.githubusercontent.com/30273995/191028127-118b9f82-7f2e-4e4d-95eb-86f7deb70ae3.jpeg)
+-----------------------------------------------------------------------------------------------------------------------------
+App Screen Record:
+---------------------------
+   -  https://user-images.githubusercontent.com/30273995/191027704-f6377b82-d22b-4c5c-aae9-38c00315b94d.mp4
+-----------------------------------------------------------------------------------------------------------------------------
