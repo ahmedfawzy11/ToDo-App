@@ -20,8 +20,8 @@ Flutter Packages:
 -----------------------------------------------------------------------------------------------------------------------------
 App Screenshots:
 ------------------------
-   -  ![Screenshot-1](https://user-images.githubusercontent.com/30273995/191027581-70aa551b-e2d6-4007-8cd3-16352cf774d0.jpeg)
-   -  ![Screenshot-2](https://user-images.githubusercontent.com/30273995/191027661-4d96d243-4ba8-4c53-9870-f5697a177b12.jpeg)
+   -  ![Screenshot-1](https://user-images.githubusercontent.com/30273995/191028108-652f54e7-5640-4de8-a225-39ce7682ece3.jpeg)
+   -  ![Screenshot-2](https://user-images.githubusercontent.com/30273995/191028127-118b9f82-7f2e-4e4d-95eb-86f7deb70ae3.jpeg)
 -----------------------------------------------------------------------------------------------------------------------------
 App Screen Record:
 ---------------------------
